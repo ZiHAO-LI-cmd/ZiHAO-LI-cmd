@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZiHAO-LI-cmd&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-[![Zihao's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZiHAO-LI-cmd&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Zihao's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZiHAO-LI-cmd&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
